@@ -1,28 +1,21 @@
+<h1 style="color: #c0392b;">Military Zone Search Application</h1>
 
-Вот отредактированный текст, который будет более читабельным для GitHub:
+<p>This is a <strong>Flask-based web application</strong> that allows you to search for military zones in a specific location and save the results in <strong>CSV</strong> or <strong>TXT</strong> format. The application uses libraries for retrieving geodata and visualizing the results on a map.</p>
 
-Military Zone Search Application
-This is a Flask-based web application that enables users to search for military zones in specific locations and save the results in CSV or TXT format. The application utilizes various libraries to retrieve geodata and visualize the results on a map.
+<h2 style="color: #2980b9;">Installation</h2>
+<ol style="font-family: 'Courier New', Courier, monospace;">
+    <li><strong>Clone the repository:</strong>
+        <pre><code>git clone https://github.com/lUAsirNin/GeoMilitary</code></pre>
+    </li>
+    <li><strong>Navigate to the project directory:</strong>
+        <pre><code>cd GeoMilitary</code></pre>
+    </li>
+    <li><strong>Install the required dependencies:</strong>
+        <pre><code>pip install -r requirements.txt</code></pre>
+    </li>
+</ol>
 
-Installation
-Clone the repository:
+<h2 style="color: #2980b9;">Running the Application</h2>
+<p>To run the application, use the following command:</p>
+<pre style="background-color: #f4f4f4; border-left: 4px solid #2980b9; padding: 10px;"><code>python GeoMilitary.py</code></pre>
 
-bash
-Копіювати код
-git clone https://github.com/lUAsirNin/GeoMilitary
-Navigate to the project directory:
-
-bash
-Копіювати код
-cd GeoMilitary
-Install the required dependencies:
-
-bash
-Копіювати код
-pip install -r requirements.txt
-Running the Application
-To run the application, use the following command:
-
-bash
-Копіювати код
-python GeoMilitary.py
