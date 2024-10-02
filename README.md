@@ -19,3 +19,9 @@
 <p>To run the application, use the following command:</p>
 <pre style="background-color: #f4f4f4; border-left: 4px solid #2980b9; padding: 10px;"><code>python GeoMilitary.py</code></pre>
 
+<h2 style="color: #2980b9;">Tags</h2>
+<ul style="list-style-type: none; padding: 0;">
+    <li style="background-color: #f4f4f4; border: 1px solid #2980b9; border-radius: 5px; margin-bottom: 5px; padding: 10px;">military</li>
+    <li style="background-color: #f4f4f4; border: 1px solid #2980b9; border-radius: 5px; margin-bottom: 5px; padding: 10px;">application</li>
+    <li style="background-color: #f4f4f4; border: 1px solid #2980b9; border-radius: 5px; padding: 10px;">GeoMilitary</li>
+</ul>
