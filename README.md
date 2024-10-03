@@ -1,4 +1,8 @@
-<h1 style="color: #c0392b;">Military Zone Search Application</h1>
+<h1 style="color: #c0392b; text-align: center;">Military Zone Search Application</h1>
+
+<p align="center">
+    <img src="picture/geo.gif" alt="GeoMilitary Demo" style="border: 2px solid #2980b9; border-radius: 10px;">
+</p>
 
 <p>This is a <strong>Flask-based web application</strong> that allows you to search for military zones in a specific location and save the results in <strong>CSV</strong> or <strong>TXT</strong> format. The application uses libraries for retrieving geodata and visualizing the results on a map.</p>
 
